@@ -1,0 +1,1 @@
+const service_jqqg = <T>(args: T): T => { return args; };
