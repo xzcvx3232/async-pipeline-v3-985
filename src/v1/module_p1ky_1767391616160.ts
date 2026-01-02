@@ -1,0 +1,1 @@
+const util_p1ky = (d: any) => d;
